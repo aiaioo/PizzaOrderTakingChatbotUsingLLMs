@@ -2,7 +2,9 @@
 
 Here are the slides and the code for the NASSCOM Summit keynote talk by Cohan Sujay Carlos, CEO of Mechanical Chef, and Arvind Singh Gulati (ex-CTO of BicycleAI).
 
-The talk was about how LLMs work and how they can be used in production systems.  We covered in particular how they can be programmed conversationally using a multi-agent technique called AutoGen.
+The talk was about how LLMs work and how they can be used in production systems.
+
+We covered in particular how they can be programmed conversationally using a multi-agent technique called AutoGen.
 
 As a demo, we presented an order-taking chatbot that Arvind Singh had built.
 

@@ -11,3 +11,5 @@ As a demo, we presented an order-taking chatbot that Arvind Singh had built.
 This repo contains the code for the same.
 
 You can also watch the demo (Arvind running the code) on Youtube at https://www.youtube.com/watch?v=2gkWBz52Yzg.
+
+[![Demo of an order-taking chatbot](https://img.youtube.com/vi/2gkWBz52Yzg/0.jpg)](https://www.youtube.com/watch?v=2gkWBz52Yzg)

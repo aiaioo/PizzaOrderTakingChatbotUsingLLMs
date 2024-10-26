@@ -6,7 +6,9 @@ The talk was about how LLMs work and how they can be used in production systems.
 
 We covered in particular how they can be programmed conversationally using a multi-agent technique called AutoGen.
 
-[![Here is a video of the lecture in full](https://img.youtube.com/vi/SMq6P44_uO8/0.jpg)](https://www.youtube.com/watch?v=SMq6P44_uO8)
+Below is a video of the lecture in full.
+
+[![Video of the lecture on building a customer service bot using LLMs](https://img.youtube.com/vi/SMq6P44_uO8/0.jpg)](https://www.youtube.com/watch?v=SMq6P44_uO8)
 
 As a demo, we presented an order-taking chatbot that Arvind Singh had built.
 
